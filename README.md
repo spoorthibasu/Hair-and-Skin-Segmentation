@@ -1,4 +1,4 @@
-# Hair-and-Skin-Segmentation
+# Hair-and-Skin-Segmentation [Kaggle Competition](https://www.kaggle.com/spoorthibasu/competitions)
 
 ![Hair and Skin Segmentation](https://user-images.githubusercontent.com/42758772/77234170-9c863280-6b69-11ea-8b02-869a872e50cf.JPG)
 
